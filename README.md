@@ -13,6 +13,8 @@ roteamento e deploy.
 
 
 DIRECIONAMENTO DO TRABALHO
+
+
 Uma das sugestões era a criação de um catálogo de filmes  utilizando uma biblioteca para tal função.
 Consumindo os dados de uma API de filmes como TMDB, e exiba informações sobre os títulos, como pôster,
 sinopse, elenco, etc.
@@ -20,6 +22,8 @@ sinopse, elenco, etc.
 
 
 API UTILIZADA
+
+
 Nesta aplicação utilizamos a API The Movie Database (TMDB)
 Para a utlização do TMDB, é necessário criar um usuário no site https://www.themoviedb.org/ para ter acesso à chave 
 da API. O processo é bem simples e rápido. Além disso a API é bem completa.
@@ -27,12 +31,16 @@ da API. O processo é bem simples e rápido. Além disso a API é bem completa.
 
 
 OUTRAS BIBLIOTECAS
+
+
 Para auxiliar no processo de estilização e no bom funcionamento da aplicação, foram instaladas as bibliotecas 
 *react-icons
 *React-routes-dom
 
 
 REFERÊNCIAS
+
+
 É importante ressaltar que, para o desenvolvimento do trabalho se fazia necessário a construção de uma aplicação que explorasse tópicos como 
 rotas com React Router e hooks do React (useState e useEffect).
 Para tal, na busca por referências, uma das que mais ajudou e serviu como base de direcionamento para este estudo foi a vídeo aula de Matheus Battisti 
